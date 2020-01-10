@@ -432,8 +432,8 @@ form:hover .from-button button {
     .nav-item{
         text-align: center;
     }
-    .center-div{
-     margin-top: 200px;
+    .header .headline {
+        margin-top: 200px;
     }
     .pricing {
         height: auto;
