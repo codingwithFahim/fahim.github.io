@@ -433,7 +433,7 @@ form:hover .from-button button {
         text-align: center;
     }
     .center-div{
-        top:35%;
+     margin-top: 200px;
     }
     .pricing {
         height: auto;
